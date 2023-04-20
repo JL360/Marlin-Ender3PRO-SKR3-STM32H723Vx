@@ -1,4 +1,12 @@
 /**
+ * 
+ * Printer Details:
+ * - Ender3-Pro
+ * - SKR3 with STM32H723Vx
+ * - TMC2209 drivers
+ * - Octoprint enabled firmware updates (SD Card Configs Updated)
+ * 
+ * 
  * Marlin 3D Printer Firmware
  * Copyright (c) 2020 MarlinFirmware [https://github.com/MarlinFirmware/Marlin]
  *
